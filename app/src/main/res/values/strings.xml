@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Premier Consult Test</string>
+
+    <string name="registration_title">Регистрация</string>
+    <string name="registration_email">e-mail</string>
+    <string name="registration_email_hint">example@example.ru</string>
+    <string name="registration_password">Пароль</string>
+    <string name="registration_password_hint">******</string>
+    <string name="registration_password_repeat">Повторите пароль</string>
+    <string name="registration_have_account">Уже есть аккаунт? Войти</string>
+
+    <string name="login_to_login">Войти</string>
+    <string name="login_title">Вход</string>
+
+    <string name="location_on_map">На карте</string>
+    <string name="location_distance">%1$s км от вас</string>
+
+    <string name="menu_to_payment">Перейти к оплате</string>
+    <string name="menu_price">%1$s руб</string>
+    <string name="menu_zero">0</string>
+
+    <string name="order_payment">Оплатить</string>
+    <string name="order_information">Время ожидания заказа \n15 минут! \nСпасибо, что выбрали нас!</string>
+</resources>
